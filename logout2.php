@@ -33,4 +33,8 @@ Modul yang anda request tidak ada!!!
 <?php
 }
 }
+<<<<<<< HEAD
 ?>
+=======
+?>
+>>>>>>> 0d626a8b969a7c35d20d0e35a96c550b9e2afd01

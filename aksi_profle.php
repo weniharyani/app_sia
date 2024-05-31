@@ -45,4 +45,8 @@ nama_lengkap='$nama_lengkap', email='$email' WHERE username='$username'";
  }else{
  header('location:../../index.php');
  }
+<<<<<<< HEAD
  ?>
+=======
+ ?>
+>>>>>>> 0d626a8b969a7c35d20d0e35a96c550b9e2afd01
